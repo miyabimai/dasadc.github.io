@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [DAシンポジウム アルゴリズムデザインコンテスト]
 description: [DAシンポジウムで開催されるアルゴリズムデザインコンテストに関しての情報を公開するサイトです。]
+lang: ja
+top_uri: /adc2017/
