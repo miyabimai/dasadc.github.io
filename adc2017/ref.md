@@ -2,9 +2,8 @@
 
 ### ADC2016の情報
 
-1. 問題と解答　[ダウンロード](https://www.dropbox.com/s/wlvfl1jgfs8n27a/ADC2016_Q_A.zip?dl=0)
-
-※ 問題からVIAの定義を削除することでADC2017の問題と解答の例として使用可能
+1. 問題と解答　[ダウンロード](https://www.dropbox.com/s/wlvfl1jgfs8n27a/ADC2016_Q_A.zip?dl=0)  
+  ※ 問題からVIAの定義を削除することでADC2017の問題と解答の例として使用可能
 
 2. 参加者の作成したポスター、プログラム
 
@@ -33,6 +32,10 @@
 
 - [Numberlink Solver in Copris](http://bach.istc.kobe-u.ac.jp/copris/puzzles/numberlink/)
 
+### 九州大学松永准教授にご提供頂いた情報
+
+- [SATベースソルバのチュートリアルとプログラム例](https://github.com/yusuke-matsunaga/ADC2016_nl3d.git)
+  (ADC2016のルール対応)
 
 ---
 ※ 「ナンバーリンク」は株式会社ニコリの登録商標です。
