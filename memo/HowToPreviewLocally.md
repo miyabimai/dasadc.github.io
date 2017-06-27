@@ -122,7 +122,8 @@
     ```
 
     最後に、GitHubにpushするが、branchがGitHub上に存在しているかどうかで
-    コマンドが異なる。
+    コマンドが異なる(いずれの場合もGitHubのID/パスワードの入力を求められる
+    ので、入力する)。
     ```
     (a) branchがGitHub上に存在しない場合
     git push --set-upstream origin adc2017dev
